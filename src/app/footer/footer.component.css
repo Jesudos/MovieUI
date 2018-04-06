@@ -1,0 +1,12 @@
+footer {
+    clear: both;
+    position: fixed;
+    z-index: 10;
+    height: 3em;
+    color: white;
+    text-align: center;
+    background-color: #2FA4E7;
+    left:0;
+    bottom:0;width:100%;
+}
+
